@@ -1,6 +1,3 @@
-XHNewsFramework
-===============
-
 ## 中文：   
 XHNewsFrameworkExample是一个快速的集成和开发框架的新闻应用程序,在仿网易新闻应App的基础上完成的框架。   
 有以下功能：             
@@ -27,7 +24,7 @@ Has the following features:
 7、a complete and independent news frame, a revolutionary UI interaction experience.      
        
 Subsequent will join network access, multitasking, multithreading management the TableView pictures download and cache              
-![image](https://github.com/JackTeam/XHScreenCaptureSDKSimple/raw/master/Screenshots/XHScreenCaptureSDKSimple.gif)
+![image](https://github.com/JackTeam/XHNewsFrameworkExample/raw/master/Screenshots/XHNewsFrameworkExample.gif)
 
     
 ## 开源模式     
