@@ -1,7 +1,7 @@
 ![image](https://github.com/JackTeam/XHNewsFrameworkExample/raw/master/Screenshots/XHNewsFrameworkExample.gif)
 
 ## 中文：   
-XHNewsFrameworkExample是一个快速的集成和开发框架的新闻应用程序,在仿网易新闻应App的基础上完成的框架。   
+XHNewsFramework是一个快速的集成和开发框架的新闻应用程序,在仿网易新闻应App的基础上完成的框架。   
 有以下功能：             
 1、支持重用嵌套在ScrollView里面的tableView.        
 2、支持快速水平滑动scrollView.        
@@ -15,7 +15,7 @@ XHNewsFrameworkExample是一个快速的集成和开发框架的新闻应用程�
 
 
 ## English：    
-XHNewsFrameworkExample is a fast integration and development of the framework of news app, base on Netease App build.       
+XHNewsFramework is a fast integration and development of the framework of news app, base on Netease App build.       
 Has the following features:       
 1、support reuse nested inside the ScrollView tableView.       
 2、support rapid horizontal sliding scrollView.       
