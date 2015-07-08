@@ -30,18 +30,6 @@ Has the following features:
 7、a complete and independent news frame, a revolutionary UI interaction experience.      
        
 Subsequent will join network access, multitasking, multithreading management the TableView pictures download and cache              
-## 开源模式     
-1、这里已经是SDK模式了      
-2、只要关注该组件的用户数量达到700个以上，将以开源所有代码的模式。    
-
-请移步到开源所有代码：[XHNewsFrameworkExample](https://github.com/JackTeam/XHNewsFrameworkExample)      
-
-## open source model
-1, here is the SDK mode    
-2, as long as pay attention to the component of a total of more than 700 users, will with all open source code model.   
-
-Please click to all open source code: [XHNewsFrameworkExample](https://github.com/JackTeam/XHNewsFrameworkExample)     
-
 
 ## License
 
@@ -51,9 +39,9 @@ English: XHNewsFramework is acailable under the MIT license, see the LICENSE fil
 
 =======================
 ## 须知       
-中文：如果您在您的项目中使用开源组件,请给我们发[电子邮件](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20XHScreenCaptureSDKSimple)告诉我们您的应用程序的名称,否则后果自负。         
+中文：如果您在您的项目中使用开源组件,请给我们发[电子邮件](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20XHScreenCaptureSDKSimple)告诉我们您的应用程序的名称。         
 
 ## Instructions
          
-English：If you use open source components in your project, please [Email us](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20XHNewsFrameworkExample) to tell us the name of your application, otherwise the consequence is proud.
+English：If you use open source components in your project, please [Email us](mailto:xhzengAIB@gmail.com?subject=From%20GitHub%20XHNewsFrameworkExample) to tell us the name of your application.
 
